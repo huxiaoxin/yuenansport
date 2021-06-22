@@ -1,0 +1,31 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform:ios,’8.0’
+use_frameworks!
+target 'keqiangboy' do
+pod 'GKNavigationBarViewController'
+pod 'MJRefresh'
+pod 'RITLPhotos', '~> 2.2.4'
+pod 'ZWPlaceHolder', '~> 0.0.2'
+pod 'ZWLimitCounter',         '~> 0.0.4'
+pod 'XHInputView', '~> 1.1.1'
+pod 'SDCycleScrollView', '~> 1.80'
+pod 'LYEmptyView'
+pod 'LCProgressHUD'
+pod 'SDWebImage', '~> 5.2.5'
+pod 'IQKeyboardManager'
+pod 'JPush'
+pod 'MOFSPickerManager'
+pod 'WHC_ModelSqliteKit', '~> 1.3.0'
+pod 'SPPageMenu', '~> 3.5.0'
+pod 'HUPhotoBrowser', '~> 1.4.5'
+pod "PYSearch"
+pod 'SobotKit'
+pod 'QRCodeReaderViewController', :git => 'https://github.com/zhengjinghua/MQRCodeReaderViewController.git'
+pod 'AFNetworking'
+pod 'Masonry', '~>1.1.0'
+pod 'UMCAnalytics'
+pod 'UMCCommon', '~> 2.1.1'
+pod 'UMCPush'
+pod 'UMCSecurityPlugins'
+#
+end

@@ -1,0 +1,6 @@
+framework module Pods_keqiangboy {
+  umbrella header "Pods-keqiangboy-umbrella.h"
+
+  export *
+  module * { export * }
+}
