@@ -1,7 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 platform:ios,’8.0’
 use_frameworks!
-target 'keqiangboy' do
+target 'yuenansport' do
 pod 'GKNavigationBarViewController'
 pod 'MJRefresh'
 pod 'RITLPhotos', '~> 2.2.4'

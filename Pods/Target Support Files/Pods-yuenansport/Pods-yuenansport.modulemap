@@ -1,0 +1,6 @@
+framework module Pods_yuenansport {
+  umbrella header "Pods-yuenansport-umbrella.h"
+
+  export *
+  module * { export * }
+}

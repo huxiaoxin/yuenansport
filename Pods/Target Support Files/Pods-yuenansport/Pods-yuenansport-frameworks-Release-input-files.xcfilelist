@@ -1,0 +1,24 @@
+${PODS_ROOT}/Target Support Files/Pods-yuenansport/Pods-yuenansport-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/GKNavigationBarViewController/GKNavigationBarViewController.framework
+${BUILT_PRODUCTS_DIR}/HUPhotoBrowser/HUPhotoBrowser.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/LCProgressHUD/LCProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/LYEmptyView/LYEmptyView.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/MOFSPickerManager/MOFSPickerManager.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/PYSearch/PYSearch.framework
+${BUILT_PRODUCTS_DIR}/QRCodeReaderViewController/QRCodeReaderViewController.framework
+${BUILT_PRODUCTS_DIR}/RITLKit/RITLKit.framework
+${BUILT_PRODUCTS_DIR}/RITLPhotos/RITLPhotos.framework
+${BUILT_PRODUCTS_DIR}/RITLViewFrame/RITLViewFrame.framework
+${BUILT_PRODUCTS_DIR}/SDCycleScrollView/SDCycleScrollView.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SPPageMenu/SPPageMenu.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/WHC_ModelSqliteKit/WHC_ModelSqliteKit.framework
+${BUILT_PRODUCTS_DIR}/XHInputView/XHInputView.framework
+${BUILT_PRODUCTS_DIR}/ZWLimitCounter/ZWLimitCounter.framework
+${BUILT_PRODUCTS_DIR}/ZWPlaceHolder/ZWPlaceHolder.framework
